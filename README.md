@@ -1,2 +1,1 @@
-# goit-markup-hw-06
-OlehFilyak/goit-markup-hw-06
+# goit-markup-hw-07
